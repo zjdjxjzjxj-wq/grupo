@@ -1,2 +1,4 @@
 print("hola mundo")
 print("hola como estas")
+print("bienvenidos")
+print(" hola chile")
